@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "just a test node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnetoCode/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnetoCode/testrepo/issues"
+  },
+  "homepage": "https://github.com/magnetoCode/testrepo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
