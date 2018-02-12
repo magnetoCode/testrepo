@@ -4,7 +4,7 @@
   "description": "just a test node project",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "node test/all.js"
   },
   "repository": {
     "type": "git",
